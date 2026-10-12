@@ -1,0 +1,13 @@
+node_modules
+dist
+.DS_Store
+*.local
+.env
+audit-out.txt
+scripts/audit-content.cjs
+scripts/.audit-bundle.cjs
+tsconfig.tsbuildinfo
+*.pdf
+*.docx
+*.rar
+source-materials/DigitalSkills10.json

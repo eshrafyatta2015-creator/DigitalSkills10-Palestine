@@ -1,0 +1,42 @@
+{
+  "unit1_data_science": {
+    "pages": [
+      6,
+      39
+    ],
+    "chars": 42429,
+    "file": "unit1_data_science.txt"
+  },
+  "unit2_python": {
+    "pages": [
+      40,
+      81
+    ],
+    "chars": 50880,
+    "file": "unit2_python.txt"
+  },
+  "unit3_digital_citizenship": {
+    "pages": [
+      82,
+      116
+    ],
+    "chars": 46765,
+    "file": "unit3_digital_citizenship.txt"
+  },
+  "unit4_robotics": {
+    "pages": [
+      117,
+      152
+    ],
+    "chars": 48451,
+    "file": "unit4_robotics.txt"
+  },
+  "front_matter": {
+    "pages": [
+      1,
+      5
+    ],
+    "chars": 7184,
+    "file": "front_matter.txt"
+  }
+}
